@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"C:\Users\BF106003\Downloads\2021-11-02-PerformanceCounterLogs\PerformanceCounterLogs"</StartArguments>
+  </PropertyGroup>
+</Project>
